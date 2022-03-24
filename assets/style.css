@@ -12,6 +12,9 @@ body {
 header {
     padding: 20px 30px;
     background-color: #E8A598;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -156,9 +159,9 @@ header ul li a {
 }
 
 .contact-me p {
-    padding: 10px 0 10px 0;
-    text-align: center;
+    padding: 30px 20px 30px 20px;
     font-size: 20px;
+    text-align: center;
 }
 
 
@@ -179,4 +182,12 @@ footer {
 footer h2 {
     color: #FAE1DD;
 
+}
+
+@media screen and (max-width: 480) {
+    header nav ul {
+        font-size: 10px; 
+        display:block;
+        }
+ 
 }
