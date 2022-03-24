@@ -1,7 +1,8 @@
 ## week-2-challenge
 Build a Professional Portfolio 
+a website that includes information about me, my work & how to contact me. A website that uses responsive layout to adapt to different screen sizes
 
-##Built with
+## Built with
 Html 
 Css 
 
