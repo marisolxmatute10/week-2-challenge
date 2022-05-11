@@ -127,6 +127,13 @@ header ul li a {
     height: 200px;
 }
 
+.project-box-bh img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 10%;
+ }
+
 .work h3 {
     text-align: center;
     padding-bottom: 20px;
@@ -142,6 +149,8 @@ header ul li a {
     margin-left: auto;
     margin-right: auto;
 }
+
+
 
 .contact-me {
     background-color: #FAE1DD;
